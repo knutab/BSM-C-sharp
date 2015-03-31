@@ -71,15 +71,6 @@ namespace WindowsFormsApplication1
             {
                 MessageBox.Show("There was an error in input of Days to Expiration. The input should be on the form 30 for 30 days.");
             }
-
-            
-         
-           
-          
-
-            
-            
-          
           
             textBox8.Text = "";
             textBox7.Text = "";
@@ -97,8 +88,8 @@ namespace WindowsFormsApplication1
             textBox16.Text = "";
             textBox21.Text = "";
             textBox20.Text = "";
-            
-            
+            textBox23.Text = "";
+            textBox25.Text = "";
 
 
             try
@@ -127,7 +118,6 @@ namespace WindowsFormsApplication1
             }
 
 
-
             try
             {
                 MVc = double.Parse(textBox22.Text);
@@ -136,6 +126,7 @@ namespace WindowsFormsApplication1
             }
             catch
             {
+                textBox23.Text = "";
             }
 
             try
@@ -146,13 +137,8 @@ namespace WindowsFormsApplication1
             }
             catch
             {
+                textBox25.Text = "";
             }
-           
-
-
-           
-                
-                
         }
 
         public double CND(double X)
@@ -369,8 +355,8 @@ namespace WindowsFormsApplication1
 
         private void button2_Click_1(object sender, EventArgs e)
         {
-            string pdfFileName = "C:\\Users\\knut\\Desktop\\Documentation.pdf";
-            System.Diagnostics.Process.Start(pdfFileName);
+            Documentation f2 = new Documentation();
+            f2.ShowDialog();
         }
 
         private double newtonc(double S, double X, double r, double T, double MVc)
@@ -406,7 +392,6 @@ namespace WindowsFormsApplication1
 
             return v10;
         }
-
 
 
     }

@@ -4,4 +4,7 @@ C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Debug\WindowsFormsApplica
 C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Debug\BSM.exe
 C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Debug\BSM.pdb
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Debug\WindowsFormsApplication1.Documentation.resources
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\bin\Debug\Resources\Documentation.pdf
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Debug\BSM.csprojResolveAssemblyReference.cache
 C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Debug\BSM.csproj.GenerateResource.Cache

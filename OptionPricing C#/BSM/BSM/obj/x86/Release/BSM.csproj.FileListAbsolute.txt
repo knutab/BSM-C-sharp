@@ -4,4 +4,11 @@ C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\WindowsFormsAppli
 C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\BSM.exe
 C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\BSM.pdb
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\WindowsFormsApplication1.Documentation.resources
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\bin\Release\Resources\Documentation.pdf
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\BSM.csprojResolveAssemblyReference.cache
 C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\BSM.csproj.GenerateResource.Cache
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\bin\Release\BSM.exe.manifest
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\bin\Release\BSM.application
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\BSM.exe.manifest
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\BSM.application
