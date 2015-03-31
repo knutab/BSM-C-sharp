@@ -1,0 +1,7 @@
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\bin\Release\BSM.exe
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\bin\Release\BSM.pdb
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\BSM.exe
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\BSM.pdb
+C:\Users\knut\Desktop\OptionPricing C#\BSM\BSM\obj\x86\Release\BSM.csproj.GenerateResource.Cache
